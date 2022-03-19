@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming, Web Development, Cybersecuirty and Data Analysis.
 - 🌱 I’m currently learning Python Programming, Data Analysis.
 - 💞️ I’m looking to collaborate on any of the above.
-- 📫 How to reach me: https://noahkiprop.w3spaces.com/
+- 📫 How to reach me: https://noahbeck577.wixsite.com/noahkiprop
 
 <!---
 NoahKip/NoahKip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
